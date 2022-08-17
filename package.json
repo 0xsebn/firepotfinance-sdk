@@ -1,8 +1,8 @@
 {
   "name": "@firepotfinance/firepotfinance-sdk",
   "license": "MIT",
-  "version": "3.0.3",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of Firepot Finance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -13,7 +13,8 @@
     "url": "git+https://github.com/firepotfinance/firepotfinance-sdk.git"
   },
   "keywords": [
-    "uniswap",
+    "firepotfinance",
+    "ambrosus",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
